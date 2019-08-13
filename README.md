@@ -25,10 +25,10 @@
     The Aether II v0.2.0+build42-universal
     NetherEx v2.0.8
     Roguelike Dungeons v1.8.0
-	BattleTowers v1.6.4
-	Ruins v17.1
-	Minecraft Comes Alive v5.3.1-universal
-	Bonsai Trees v1.1.2-b144
+    BattleTowers v1.6.4
+    Ruins v17.1
+    Minecraft Comes Alive v5.3.1-universal
+    Bonsai Trees v1.1.2-b144
     -------------------
     TECH:
     -------------------
@@ -49,9 +49,9 @@
     GalactiCraft Core v4.0.2.210
     GalactiCraft Planets v4.0.2.210
     SpaceCraftX [GC Addon] v1.0.35
-	BuildCraft v7.99.24.1
-	Ender IO v5.0.44
-	ProjectE (Equivalent Exchange 2 Modern MC Versions Port) vPE1.4.1
+    BuildCraft v7.99.24.1
+    Ender IO v5.0.44
+    ProjectE (Equivalent Exchange 2 Modern MC Versions Port) vPE1.4.1
     -------------------
     MAGIC/ADVENTURE:
     -------------------
@@ -72,7 +72,7 @@
     EnderStorage v2.4.5.135-universal
     Morph v7.1.3
     Baubles v1.5.2
-	GraveStone Mod v1.10.2
+    GraveStone Mod v1.10.2
     -------------------
     WEAP/TOOLS:
     -------------------
@@ -94,7 +94,7 @@
     OPTIMIZATION:
     -------------------
     Clumps v3.1.2
-	FastWorkbench v1.7.1
+    FastWorkbench v1.7.1
     -------------------
     DEPS:
     -------------------
@@ -111,13 +111,13 @@
     LibEx v1.0.8
     MCJTYLib v3.5.0
     MicDoodleCore v4.0.2.210
-	RadixCore v2.2.1-universal
-	EnderCore v0.5.57
+    RadixCore v2.2.1-universal
+    EnderCore v0.5.57
     -------------------
     CLIENT ONLY:
     -------------------
     ConnectedTexturesMod v0.3.3.22
-	Optifine vHD_U_E3
+    Optifine vHD_U_E3
     Just Enough Items v4.15.0.278
     JEI Bees v0.9.0.5
     Just Enough HarvestCraft v1.6.3
@@ -128,6 +128,6 @@
     -------------------
     ???????
     -------------------
-	01010000 01101111 01110010 01110100 01100001 01101100 01000111 01110101 01101110 00100000 01110110 00110111 00101110 00110001 00101110 00110000
+    01010000 01101111 01110010 01110100 01100001 01101100 01000111 01110101 01101110 00100000 01110110 00110111 00101110 00110001 00101110 00110000
 
 
