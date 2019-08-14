@@ -1,5 +1,36 @@
 CHANGELOG:
 -----------------------------------------------------------------------------------------
+v0.8 "The Thiccy Update"
+-Updated all mods from v0.7 to latest available versions
+-Added Cooking for Blockheads
+-Added Immersive Engineering
+-Added Actually Additions
+-Added Mekanism
+-Added Thermal Innovation
+-Added Wireless Crafting Terminal [AE2]
+-Added Mob Grinding Utils
+-Added Flux Networks
+-Added Apotheosis
+-Added AbyssalCraft
+-Added AbyssalCraft Integration
+-Added Astral Sorcery
+-Added Totemic
+-Added The Betweenlands
+-Added AppleCore
+-Added Spice of Life: Carrot Edition
+-Added Aquaculture
+-Added Combustive Fishing
+-Added The Camping Mod
+-Added RikMulds Core
+-Added Placebo
+-Added Sonar Core
+-Added p445w0rd's Library
+-Added AE2 Wireless Terminal Library
+-Added Just Enough IDs
+-Added Just Enough IDs Integrations
+-Removed SpaceCraftX because it is no longer maintained and causes clientside crash.
+-Updated changelog and readme to reflect these changes.
+-----------------------------------------------------------------------------------------
 v0.7 "ICMP v0.7 Maybe Stable"
 -Removed Dedicated Server IP from Readme.md
 -Updated all existing mods to most recent versions available
