@@ -1,5 +1,9 @@
 CHANGELOG:
 -----------------------------------------------------------------------------------------
+v0.8.1 "The Thiccy Update: No More Internal Exceptions and Timeouts"
+-Added Random Patches Mod
+-Updated changelog and readme to reflect these changes
+-----------------------------------------------------------------------------------------
 v0.8 "The Thiccy Update"
 -Updated all mods from v0.7 to latest available versions
 -Added Cooking for Blockheads
